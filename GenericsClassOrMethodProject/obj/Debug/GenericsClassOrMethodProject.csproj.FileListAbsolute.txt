@@ -1,0 +1,7 @@
+E:\CSharp\GenericsClassOrMethodProject\GenericsClassOrMethodProject\bin\Debug\GenericsClassOrMethodProject.exe.config
+E:\CSharp\GenericsClassOrMethodProject\GenericsClassOrMethodProject\bin\Debug\GenericsClassOrMethodProject.exe
+E:\CSharp\GenericsClassOrMethodProject\GenericsClassOrMethodProject\bin\Debug\GenericsClassOrMethodProject.pdb
+E:\CSharp\GenericsClassOrMethodProject\GenericsClassOrMethodProject\obj\Debug\GenericsClassOrMethodProject.csproj.AssemblyReference.cache
+E:\CSharp\GenericsClassOrMethodProject\GenericsClassOrMethodProject\obj\Debug\GenericsClassOrMethodProject.csproj.CoreCompileInputs.cache
+E:\CSharp\GenericsClassOrMethodProject\GenericsClassOrMethodProject\obj\Debug\GenericsClassOrMethodProject.exe
+E:\CSharp\GenericsClassOrMethodProject\GenericsClassOrMethodProject\obj\Debug\GenericsClassOrMethodProject.pdb
